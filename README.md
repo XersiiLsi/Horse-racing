@@ -1,2 +1,3 @@
-# Horse-racing
-Just race, relax and chill
+Just run the program in Ide ヅ
+
+-----> in folder src open Hippodrome
